@@ -2,7 +2,7 @@
 
 NODE_BIN=./node_modules/.bin
 
-all: lint test
+all: test lint
 
 test:
 	$(NODE_BIN)/mocha
