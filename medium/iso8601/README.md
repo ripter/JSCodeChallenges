@@ -12,5 +12,9 @@ You may not use libraries.
 
     shell$ make
     
+##Edit:
+
+    shell$ emacs src/index.js
+    
 ##Goal:
   Pass all tests.

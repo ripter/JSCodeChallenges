@@ -21,3 +21,13 @@ Edit the source file to make changes.
 
 
 Repeat running the test until everything has passed.
+
+
+##Prerequisites
+* [node](https://nodejs.org/) or [IO.js](https://iojs.org/en/index.html)
+* [npm](https://docs.npmjs.com/)
+
+##Tips
+Most challenges do not allow the use of 3rd party libraries. If a library is allowed, it will be included for you in `src/index.js`
+
+Use the tests as documentation. They are always located in `test/`
