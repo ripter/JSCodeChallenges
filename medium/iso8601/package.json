@@ -1,0 +1,24 @@
+{
+  "name": "iso8601",
+  "version": "1.0.0",
+  "description": "Format dates into a standard ISO 8601",
+  "main": "index.js",
+  "scripts": {
+    "test": "make"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ripter/JSCodeChallenges.git"
+  },
+  "author": "Chris Richards",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ripter/JSCodeChallenges/issues"
+  },
+  "homepage": "https://github.com/ripter/JSCodeChallenges",
+  "dependencies": {
+    "jshint": "^2.7.0",
+    "mocha": "^2.2.4",
+    "should": "^6.0.1"
+  }
+}
